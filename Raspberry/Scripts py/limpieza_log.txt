@@ -1,0 +1,38 @@
+Archivos en la carpeta de sumarios:
+sumario_2024-08-15.xml
+sumario_2024-08-16.xml
+sumario_2024-08-17.xml
+sumario_2024-08-19.xml
+sumario_2024-08-20.xml
+sumario_2024-08-21.xml
+sumario_2024-08-22.xml
+sumario_2024-08-23.xml
+sumario_2024-08-24.xml
+sumario_2024-08-26.xml
+sumario_2024-08-27.xml
+sumario_2024-08-28.xml
+sumario_2024-08-29.xml
+sumario_2024-09-02.xml
+sumario_2024-09-03.xml
+sumario_2024-09-04.xml
+sumario_2024-09-05.xml
+sumario_2024-09-06.xml
+Fechas de la semana: ['2024-09-09', '2024-09-10', '2024-09-11', '2024-09-12', '2024-09-13', '2024-09-14', '2024-09-15']
+Archivos JSON encontrados:
+['/media/hazael/E250574350571E1B/BOE/Contenidos procesados/contenido_unificado_2024-09-12.json', '/media/hazael/E250574350571E1B/BOE/Contenidos procesados/contenido_unificado_2024-09-14.json']
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-09.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-09.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-10.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-10.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-11.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-11.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-12.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-12.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-13.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-13.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-14.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-14.xml
+Buscando archivo de sumario: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-15.xml
+Archivo de sumario no encontrado: /media/hazael/E250574350571E1B/BOE/Descargas sumarios/sumario_2024-09-15.xml
+Archivos a eliminar:
+[]
